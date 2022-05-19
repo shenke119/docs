@@ -7,6 +7,7 @@ export default defineUserConfig({
   base: "/base/",
   lang: "zh-CN",
   title: "SK的小文档",
+  dest: "./dist",
   plugins: [
     [
       require("vuepress-plugin-demo-container-vue3"),
