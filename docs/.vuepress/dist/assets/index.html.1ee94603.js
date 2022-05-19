@@ -1,0 +1,1 @@
+const e={key:"v-5a0e00f6",path:"/guide/vue3/",title:"Element Plus\u5B98\u65B9\u6587\u6863",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Element Plus\u5B98\u65B9\u6587\u6863",description:"Element Plus\u5B98\u65B9\u6587\u6863"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"guide/vue3/README.md"};export{e as data};
