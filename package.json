@@ -1,0 +1,36 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs  --temp .temp",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenke119/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenke119/docs/issues"
+  },
+  "homepage": "https://github.com/shenke119/docs#readme",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.45",
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.45",
+    "@vuepress/plugin-container": "^2.0.0-beta.45",
+    "@vuepress/plugin-search": "^2.0.0-beta.45",
+    "element-plus": "^2.2.0",
+    "vue": "^3.2.34",
+    "vuepress": "^2.0.0-beta.45",
+    "vuepress-plugin-demo-container-v2": "^2.3.4"
+  },
+  "dependencies": {
+    "vuepress-plugin-demo-container": "^0.2.0",
+    "vuepress-plugin-demo-container-vue3": "^1.0.0",
+    "vuepress-plugin-run": "^1.0.2"
+  }
+}
