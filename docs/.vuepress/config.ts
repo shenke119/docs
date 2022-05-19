@@ -4,6 +4,7 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { localTheme } from "./theme";
 import path from "path";
 export default defineUserConfig({
+  base: "/base/",
   lang: "zh-CN",
   title: "SK的小文档",
   plugins: [
