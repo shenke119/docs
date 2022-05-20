@@ -1,0 +1,1 @@
+import{_ as e,o as r,c}from"./app.2a237a72.js";const n={};function t(_,o){return r(),c("p",null,"Vuepress\u5C0F\u6587\u6863")}var a=e(n,[["render",t],["__file","index.html.vue"]]);export{a as default};

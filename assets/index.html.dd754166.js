@@ -1,0 +1,1 @@
+import{_ as t,r as n,o,c as r,a,b as c,d as s}from"./app.2a237a72.js";const _={},l={href:"https://staging-cn.vuejs.org/guide/quick-start.html",target:"_blank",rel:"noopener noreferrer"},i=s("\u5B98\u7F51");function d(f,m){const e=n("ExternalLinkIcon");return o(),r("p",null,[a("a",l,[i,c(e)])])}var h=t(_,[["render",d],["__file","index.html.vue"]]);export{h as default};
