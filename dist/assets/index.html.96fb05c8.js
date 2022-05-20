@@ -1,1 +1,0 @@
-const e={key:"v-572cd258",path:"/guide/element-plus/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652953254e3,contributors:[{name:"shenke119",email:"450049621@qq.com",commits:1}]},filePathRelative:"guide/element-plus/README.md"};export{e as data};
